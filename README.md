@@ -23,4 +23,4 @@ Click "**Install**".
 
 
 
-[demo]: Redeem-a-code.jpg
+[demo]: redeem-a-code.jpg
