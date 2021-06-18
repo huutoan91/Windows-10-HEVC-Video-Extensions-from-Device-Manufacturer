@@ -22,7 +22,7 @@ Or, open command prompt, and type/paste:
 Click "**Install**".
 
 
-[MIT](https://opensource.org/licenses/MIT)
+
 
 [issues]: https://github.com/trungk18/angular-spotify/issues/new
 [pull]: https://github.com/trungk18/angular-spotify/compare
