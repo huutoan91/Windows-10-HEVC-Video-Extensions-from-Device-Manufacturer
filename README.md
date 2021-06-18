@@ -1,7 +1,6 @@
 # Windows-10-HEVC-Video-Extensions-from-Device-Manufacturer
 
-![Screenshot](Redeem a code.jpg)
-
+![Redeem a code][demo]
 > Well, looks like the free alternative is now closed.
 > https://www.microsoft.com/en-us/p/hevc-video-extension/9n4wgh0z6vhq
 > The only option now is to get the $0.99 version if you want to keep it "legal".
