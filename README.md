@@ -21,3 +21,4 @@ Or, open command prompt, and type/paste:
 
 Click "**Install**".
 
+[demo]: /Redeem a code.jpg
