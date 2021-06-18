@@ -21,4 +21,27 @@ Or, open command prompt, and type/paste:
 
 Click "**Install**".
 
-[demo]: /Redeem a code.jpg
+
+[MIT](https://opensource.org/licenses/MIT)
+
+[issues]: https://github.com/trungk18/angular-spotify/issues/new
+[pull]: https://github.com/trungk18/angular-spotify/compare
+[jira]: https://jira.trungk18.com/
+[twitter]: https://twitter.com/tuantrungvo
+[nx]: https://nx.dev/
+[angularsg]: https://twitter.com/angularsg
+[angularvn]: https://twitter.com/ngvnofficial
+[nartc]: https://github.com/nartc
+[gist]: https://gist.github.com/trungk18/7ef8766cafc05bc8fd87be22de6c5b12
+[dep-graph-nx]: https://nx.dev/latest/angular/structure/dependency-graph
+[stack]: /libs/web/shared/assets/src/assets/readme/angular-spotify-tech-stack.png
+[time]: /libs/web/shared/assets/src/assets/readme/time-spending.png
+[dep-graph]: /libs/web/shared/assets/src/assets/readme/dep-graph.png
+[sdk-flow]: /libs/web/shared/assets/src/assets/readme/sdk-flow.png
+[demo]: /libs/web/shared/assets/src/assets/readme/angular-spotify-demo-short.gif
+[visualizer]: /libs/web/shared/assets/src/assets/readme/angular-spotify-visualization.gif
+[angular-spotify-browse]: /libs/web/shared/assets/src/assets/readme/angular-spotify-browse.gif
+[album-art]: /libs/web/shared/assets/src/assets/readme/angular-spotify-album-art.gif
+[pwa]: /libs/web/shared/assets/src/assets/readme/angular-spotify-pwa.gif
+[web-player]: /libs/web/shared/assets/src/assets/readme/angular-spotify-web-player.png
+[nx-cloud]: /libs/web/shared/assets/src/assets/readme/nx-cloud.png
